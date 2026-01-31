@@ -160,7 +160,7 @@
   - S3 Glacier
   - Storage Gateway
 
-## AWS CloudHSM
+## AWS CloudHSM (Hardware Security Modules)
 
 - It is a service to keep hardware-based crypto keys safe.
 - Used to meet compliance requirements (FIPS 140-2 level 3 compliant).
